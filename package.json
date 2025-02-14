@@ -1,0 +1,26 @@
+{
+  "name": "to_do_list",
+  "version": "1.0.0",
+  "description": "add a new task , view a list of task,mark a task as complete,remove task",
+  "keywords": [
+    "To",
+    "do",
+    "list",
+    "add",
+    "task",
+    "and",
+    "many",
+    "more"
+  ],
+  "license": "ISC",
+  "author": "Vishnu Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
