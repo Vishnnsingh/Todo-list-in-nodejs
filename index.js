@@ -3,7 +3,7 @@ const path = require('path');
 const readline = require('readline');
 const chalk = require('chalk');
 
-const filePath = path.join(__dirname, 'tasks.json');
+const filePath = path.join(__dirname, 'tasks.txt');
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
